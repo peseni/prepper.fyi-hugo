@@ -3,16 +3,21 @@ layoutdir = "layouts"
 publishdir = "public"
 
 theme = "Hugo-BeautifulHugo"
-canonifyurls = true
+languageCode = "en-us"
+#canonifyurls = true
+#relativeURLs = true
 
 baseurl = "https://www.prepper.fyi/" 
-languageCode = "en-us"
 title = "Prepper.fyi"
+copyright = "© 2016. All rights reserved."
+
+[permalinks]
+    post = "/:year/:month/:slug/"
 
 [author]
 	facebook = "Prepperfyi-1660307567619768/"
 	twitter = "Prepper_fyi"
- 
+
 [[menu.main]]
     name = "Current Contest"
     pre = "<i class='fa fa-heart'></i>"
@@ -35,6 +40,10 @@ title = "Prepper.fyi"
     url = "/page/terms"
 
 [params]
-    logo = "images/prepper.fyi.logo.300x157.jpg" #No leading slash as one is already added by baseurl code
+    logo = "/images/prepper.fyi.logo.300x157.jpg" #No leading slash as one is already added by baseurl code
     facebookLogo = "/images/prepper.fyi.logo.600x314.jpg"
+
+[params.authors]
+  [params.authors.Jon]
+    "firstName"  = "Jon"
   

@@ -95,30 +95,17 @@
 
         </ul>
         <p class="copyright text-muted">
-          {{ if .Site.Author.name }}
-          {{ .Site.Author.name }}
-          &nbsp;&bull;&nbsp;
-          {{ end }}
-    		  
-    		  {{ .Site.LastChange.Format "2006" }}
-    		  
-    		  {{ if .Site.Title }}
-    		  &nbsp;&bull;&nbsp;
-    		  <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-    		  {{ end }}
+          {{ .Site.Copyright }}
   	    </p>
   	        <!-- Please don't remove this, keep my open source work credited :) -->
     		<p class="theme-by text-muted">
-    		  Theme by
-    		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    		  Theme by <a href="http://deanattali.com/beautiful-jekyll/" rel="nofollow">beautiful-jekyll</a>
     		</p>
       </div>
     </div>
   </div>
 </footer>
 
-<script src="{{ .Site.BaseURL }}js/jquery-1.11.2.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/main.js"></script>
-
-{{ template "_internal/google_analytics.html" . }}
+<script src="/js/jquery-1.11.2.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/main.js"></script>
