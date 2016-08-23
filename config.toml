@@ -5,7 +5,7 @@ publishdir = "public"
 theme = "Hugo-BeautifulHugo"
 canonifyurls = true
 
-baseurl = "/" 
+baseurl = "" 
 languageCode = "en-us"
 title = "Prepper.fyi"
 
