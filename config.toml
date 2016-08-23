@@ -1,0 +1,18 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+theme = "beautifulhugo"
+canonifyurls = true
+
+baseurl = "/" #without ending slash
+languageCode = "en-us"
+title = "Prepper.fyi"
+
+[params]
+  twitterName = "Prepper_fyi"
+  description = "Are you a prepper?"
+
+     
+  
+  
