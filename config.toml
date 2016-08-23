@@ -5,7 +5,7 @@ publishdir = "public"
 theme = "Hugo-BeautifulHugo"
 canonifyurls = true
 
-baseurl = "" 
+baseurl = "https://www.prepper.fyi" 
 languageCode = "en-us"
 title = "Prepper.fyi"
 
@@ -35,6 +35,6 @@ title = "Prepper.fyi"
     url = "/page/terms"
 
 [params]
-    logo = "/images/prepper.fyi.logo.300x157.jpg"
+    logo = "images/prepper.fyi.logo.300x157.jpg" #No leading slash as one is already added by baseurl code
     facebookLogo = "/images/prepper.fyi.logo.600x314.jpg"
   
