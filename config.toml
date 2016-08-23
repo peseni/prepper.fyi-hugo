@@ -10,9 +10,8 @@ languageCode = "en-us"
 title = "Prepper.fyi"
 
 [author]
-	facebook = "#"
+	facebook = "Prepperfyi-1660307567619768/"
 	twitter = "Prepper_fyi"
-	name = ""   
  
 [[menu.main]]
     name = "Current Contest"
@@ -35,5 +34,6 @@ title = "Prepper.fyi"
     identifier = "terms"
     url = "/page/terms"
 
-
+[params]
+    logo = "/images/prepper.fyi.logo.300x157.jpg"
   
