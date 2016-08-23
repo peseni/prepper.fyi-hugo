@@ -2,7 +2,7 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-theme = "beautifulhugo"
+theme = "Hugo-BeautifulHugo"
 canonifyurls = true
 
 baseurl = "/" #without ending slash
