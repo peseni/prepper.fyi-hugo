@@ -37,5 +37,5 @@ Prepper.fyi may update these terms of utilization for its website whenever witho
 8. Governing Law  
 Any case identifying with Prepper.fyi's site should be administered by the laws of the country of United Kingdom without respect to its contention of law provisions.
 
-General Terms and Conditions applicable to Use of a Web Site.
+<!-- General Terms and Conditions applicable to Use of a Web Site. -->
 
