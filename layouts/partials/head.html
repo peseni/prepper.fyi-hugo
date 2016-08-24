@@ -29,7 +29,7 @@
   <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:description" content="{{ .Description }}" />  
   <meta property="og:site_name" content="Prepper fyi" />
-  <meta property="og:image" content="{{ $.Param "fbimage" }}" />
+  <meta property="og:image" content="{{ $.Param "fbimage" | absURL }}" />
   <!-- <meta property="og:app_id" content="" />  -->
   <meta property="og:type" content="{{ if .IsPage }}{{ "article" }}{{ else }}{{ "website" }}{{ end }}" />
  
