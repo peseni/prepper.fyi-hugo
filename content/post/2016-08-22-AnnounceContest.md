@@ -13,10 +13,12 @@ fbimage = "/images/LifeStrawOriginal-FB.jpg"
 <center>![Contest Prize](/images/LifeStrawOriginal-FB.jpg)</center>
 
 <div align="center" class="main-explain-area jumbotron">
-	We're giving away a free LifeStraw to one lucky winner this week.   
+	We're giving away a free LifeStraw to one lucky winner.   
 	</br>
-	Contest ends Friday 26 August 2016.
+	Contest ends Friday 2 September 2016.
 	<p>
     	<a class="btn btn-success btn-lg get-started-btn" href="http://win.prepper.fyi/lp/15680/lifestraw">Click Here To Enter The Contest</a>
 	</p>
 </div>
+
+Contest Rules:
