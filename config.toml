@@ -41,7 +41,8 @@ copyright = "© 2016. All rights reserved."
 
 [params]
     logo = "/images/prepper.fyi.logo.300x157.jpg" #No leading slash as one is already added by baseurl code
-    facebookLogo = "/images/prepper.fyi.logo.600x314.jpg"
+    fbtype = "website"
+    fbimage = "/images/prepper.fyi.logo.600x314.jpg"
 
 [params.authors]
   [params.authors.Jon]

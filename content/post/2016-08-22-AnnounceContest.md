@@ -5,6 +5,9 @@ title = "New Contest - Win a LifeStraw"
 subtitle = "Are You Our Next Winner?"
 description = "We're giving away a free LifeStraw to one lucky winner this week."
 author = "Jon"   
+
+fbType = "article"
+fbimage = "/images/LifeStrawOriginal-FB.jpg"
 +++
 
 <center>![Contest Prize](/images/LifeStrawOriginal-FB.jpg)</center>
