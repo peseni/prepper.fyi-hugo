@@ -3,7 +3,7 @@ type = "post"
 date = "2016-09-08T16:00:00+00:00"
 title = "LifeStraw Contest Winner"
 subtitle = "Who won?"
-description = "We're giving away a free LifeStraw to one lucky winner this week."
+description = "Who was the lucky winner of our LifeStraw contest?"
 author = "Jon"   
 
 fbType = "article"
