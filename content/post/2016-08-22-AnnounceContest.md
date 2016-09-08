@@ -65,13 +65,9 @@ BY ENTERING THE SWEEPSTAKES, EACH ENTRANT AGREES TO INDEMNIFY, RELEASE AND HOLD 
 
 PUBLICITY  
 By participating, each entrant grants Sponsor permission to use his/her name, likeness or comments for publicity purposes without payment of additional consideration, except where prohibited by law.
-SWEEPSTAKES SPONSORS
-This sweepstakes is sponsored by:
-Prepper.fyi
-17 Song Thrush Drive
-Ashford
-Kent
-TN25 7FP
-UK
+
+SWEEPSTAKES SPONSORS  
+This sweepstakes is sponsored by:  
+Prepper.fyi, 17 Song Thrush Drive, Ashford, Kent, TN25 7FP. UK.  
 
 Any questions regarding this Sweepstakes should be directed to jon@prepper.fyi

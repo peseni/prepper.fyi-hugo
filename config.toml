@@ -15,15 +15,15 @@ copyright = "© 2016. All rights reserved."
     post = "/:year/:month/:slug/"
 
 [author]
-	facebook = "Prepperfyi-1660307567619768/"
+	facebook = "prepperfyi/"
 	twitter = "Prepper_fyi"
 
-[[menu.main]]
-    name = "Current Contest"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "contest"
-    url = "http://win.prepper.fyi/lp/15680/lifestraw"
+#[[menu.main]]
+#    name = "Current Contest"
+#    pre = "<i class='fa fa-heart'></i>"
+#    weight = -110
+#    identifier = "contest"
+#    url = ""
 
 [[menu.main]]
     name = "Privacy"
